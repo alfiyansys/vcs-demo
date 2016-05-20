@@ -2,6 +2,7 @@
 
 int main(){
 	printf("Hello world!");
+	function2();
 	return 0;
 }
 
