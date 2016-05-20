@@ -5,6 +5,7 @@ int main(){
 	return 0;
 }
 
-void function1(){
-	printf("F1");
+int function1(){
+	printf("F1 with return");
+	return 1;
 }
